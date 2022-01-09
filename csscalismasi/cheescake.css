@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: antiquewhite;
+  }
+  h1 {
+    color: rgb(157, 69, 240);
+  }
+  h2 {
+    color: rgb(226, 133, 100);
+  }
+  ul {
+    display: inline-block;
+  }
+  ol {
+    display: inline-block;
+  }
